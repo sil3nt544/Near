@@ -49,7 +49,7 @@ class TableApp(App):
     def compose(self) -> ComposeResult:
         with Horizontal():
             yield Checkbox("Show NSFW sites", id="nsfw_toggle")
-            yield Input(placeholder="Type username then hit Enter", id="username_input")
+            yield Input(placeholder="Enter username and press Enter...", id="username_input")
         self.table = DataTable(id="results_table")
         yield self.table
 
