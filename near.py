@@ -54,7 +54,7 @@ Label {
         yield Label(ascii_art, id="title")
         self.menu = ListView(
             ListItem(Label("Scan Username")),
-            ListItem(Label("Check Socials")),
+            ListItem(Label("Scrape Socials")),
             ListItem(Label("Subdomain Finder")),
         )
         yield self.menu
