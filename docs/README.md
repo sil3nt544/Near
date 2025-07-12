@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo.gif">
+    <img src="logo.png">
 </p>
  <h6><p align="center">
     perform different types of <a href="https://github.com/rdWei/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/rdWei/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
