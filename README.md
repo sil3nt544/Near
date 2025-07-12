@@ -1,17 +1,4 @@
 <div align="center">
-  <pre style="display: inline-block; border: 1px solid; padding: 10px;">
- _   _                 
-| \ | |                
-|  \| | ___  __ _ _ __ 
-| . ` |/ _ \/ _` | '__|
-| |\  |  __/ (_| | |   
-\_| \_/\___|\__,_|_|   
-
-Here The Text
-  </pre>
-</div>
-
-<div align="center">
   <pre style="display: inline-block; border: 1px solid; padding: 10px;"> 
  _   _                 
 | \ | |                
