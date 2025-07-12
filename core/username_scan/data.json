@@ -71,12 +71,6 @@
     "urlMain": "https://airbit.com/",
     "username_claimed": "airbit"
   },
-  "Airliners": {
-    "errorType": "status_code",
-    "url": "https://www.airliners.net/user/{}/profile/photos",
-    "urlMain": "https://www.airliners.net/",
-    "username_claimed": "yushinlin"
-  },
   "All Things Worn": {
     "errorMsg": "Sell Used Panties",
     "errorType": "message",
@@ -1095,14 +1089,6 @@
     "urlMain": "https://community.icons8.com/",
     "username_claimed": "thefourCraft"
   },
-  "Image Fap": {
-    "errorMsg": "Not found",
-    "errorType": "message",
-    "isNSFW": true,
-    "url": "https://www.imagefap.com/profile/{}",
-    "urlMain": "https://www.imagefap.com/",
-    "username_claimed": "blue"
-  },
   "ImgUp.cz": {
     "errorType": "status_code",
     "url": "https://imgup.cz/{}",
@@ -1367,14 +1353,6 @@
     "urlMain": "https://monkeytype.com/",
     "urlProbe": "https://api.monkeytype.com/users/{}/profile",
     "username_claimed": "Lost_Arrow"
-  },
-  "Motherless": {
-    "errorMsg": "no longer a member",
-    "errorType": "message",
-    "isNSFW": true,
-    "url": "https://motherless.com/m/{}",
-    "urlMain": "https://motherless.com/",
-    "username_claimed": "hacker"
   },
   "Motorradfrage": {
     "errorType": "status_code",
@@ -2028,14 +2006,6 @@
     "urlMain": "https://www.tnaflix.com/",
     "username_claimed": "hacker"
   },
-  "TorrentGalaxy": {
-    "errorMsg": "<title>TGx:Can't show details</title>",
-    "errorType": "message",
-    "regexCheck": "^[A-Za-z0-9]{3,15}$",
-    "url": "https://torrentgalaxy.to/profile/{}",
-    "urlMain": "https://torrentgalaxy.to/",
-    "username_claimed": "GalaxyRG"
-  },
   "TradingView": {
     "errorType": "status_code",
     "request_method": "GET",
@@ -2366,13 +2336,6 @@
     "urlMain": "http://www.authorstream.com/",
     "username_claimed": "blue"
   },
-  "babyblogRU": {
-    "errorType": "response_url",
-    "errorUrl": "https://www.babyblog.ru/",
-    "url": "https://www.babyblog.ru/user/{}",
-    "urlMain": "https://www.babyblog.ru/",
-    "username_claimed": "blue"
-  },
   "chaos.social": {
     "errorType": "status_code",
     "url": "https://chaos.social/@{}",
@@ -2442,13 +2405,6 @@
     "url": "https://www.fl.ru/users/{}",
     "urlMain": "https://www.fl.ru/",
     "username_claimed": "blue"
-  },
-  "forum_guns": {
-    "errorMsg": "action=https://forum.guns.ru/forummisc/blog/search",
-    "errorType": "message",
-    "url": "https://forum.guns.ru/forummisc/blog/{}",
-    "urlMain": "https://forum.guns.ru/",
-    "username_claimed": "red"
   },
   "freecodecamp": {
     "errorType": "status_code",
