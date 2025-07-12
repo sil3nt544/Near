@@ -16,7 +16,7 @@ Social Media Hacking Toolkit
 </p></h6>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/release-v0.3.3-141449" alt=""/>
-  <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/>
+  <img src="https://img.shields.io/badge/release-v0.0.1-141449" alt=""/>
+  <img src="https://img.shields.io/badge/written in-python" alt=""/>
   <img src="https://img.shields.io/badge/author-rdWei-141449" alt=""/>
 </p>
