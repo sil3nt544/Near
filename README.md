@@ -1,6 +1,5 @@
 <div align="center">
   <pre style="display: inline-block; border: 1px solid; padding: 10px;">
-
  _   _                 
 | \ | |                
 |  \| | ___  __ _ _ __ 
