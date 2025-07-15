@@ -37,7 +37,7 @@ Label {
         ascii_art = (
             "                  \n"
             "             ,--. \n"
-            "          ,--.'| \n"
+            "           ,--. | \n"
             "       ,--,:  : | \n"
             "    ,`--.'`|  ' : \n"
             "    |   :  :  | | \n"
@@ -54,8 +54,9 @@ Label {
         yield Label(ascii_art, id="title")
         self.menu = ListView(
             ListItem(Label("Scan Username")),
-            ListItem(Label("Scrape Socials")),
-            ListItem(Label("Subdomain Finder")),
+            ListItem(Label("Social Scraper")),
+            ListItem(Label("Phone Lookup")),
+            ListItem(Label("Dorks Generator")),
         )
         yield self.menu
 
@@ -64,7 +65,11 @@ Label {
         label = str(event.item.query_one(Label).renderable)
         if label == "Scan Username":
             next_action = "scan_username"
-            self.exit()
+        elif label == "Social Scraper":
+            next_action = "social_scraper"
+        elif label == "Phone Lookup":
+            next_action = "phone_lookup"
+        self.exit()
 
 
 
@@ -75,3 +80,7 @@ if __name__ == "__main__":
     # Dopo l'uscita da Textual
     if next_action == "scan_username":
             subprocess.run(["python3", "core/username_scan/username_scan.py"])
+    elif next_action == "social_scraper":
+            subprocess.run(["python3", "core/social_scraper/social_scraper.py"])
+    elif next_action == "phone_lookup":
+            subprocess.run(["python3", "core/phone_lookup/phone_lookup.py"])
