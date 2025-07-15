@@ -20,7 +20,8 @@
 </p>
 
 ---
-[!] This tool is intended for ethical OSINT and educational use only. The author is not responsible for any misuse. Use at your own risk and comply with all applicable laws.
+> [!WARNING]
+> This tool is intended for ethical OSINT and educational use only. The author is not responsible for any misuse. Use at your own risk and comply with all applicable laws.
 
 - **Near**
     - What it does
