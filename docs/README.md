@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/author-rdWei-141449" alt=""/>
 </p>
 
-<br>
-
 <p align="center">
     <img src="images/demo.gif">
 </p>
