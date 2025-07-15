@@ -15,7 +15,10 @@
   <img src="https://img.shields.io/badge/author-rdWei-141449" alt=""/>
 </p>
 
-![images/demo.gif]
+<p align="center">
+    <img src="images/demo.gif">
+</p>
+
 
 ## TODO
 
