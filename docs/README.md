@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo.png">
+    <img src="images/logo.png">
 </p>
 
  <h6><p align="center">
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/author-rdWei-141449" alt=""/>
 </p>
 
-<script src="https://asciinema.org/a/dpQoppGoU6SQzldA1DOHVhtmj.js" id="asciicast-dpQoppGoU6SQzldA1DOHVhtmj" async="true"></script>
+![images/demo.gif]
 
 ## TODO
 
