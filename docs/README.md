@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/author-rdWei-141449" alt=""/>
 </p>
 
+[![asciicast](https://asciinema.org/a/dpQoppGoU6SQzldA1DOHVhtmj.svg)](https://asciinema.org/a/dpQoppGoU6SQzldA1DOHVhtmj)
+
 ## TODO
 
 - [ ] Add Facebook Scarping 
