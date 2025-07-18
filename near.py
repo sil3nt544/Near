@@ -69,6 +69,8 @@ Label {
             next_action = "social_scraper"
         elif label == "Phone Lookup":
             next_action = "phone_lookup"
+        elif label == "Dorks Generator":
+            next_action = "dorks_generator"
         self.exit()
 
 
@@ -84,3 +86,5 @@ if __name__ == "__main__":
             subprocess.run(["python3", "core/social_scraper/social_scraper.py"])
     elif next_action == "phone_lookup":
             subprocess.run(["python3", "core/phone_lookup/phone_lookup.py"])
+    elif next_action == "dorks_generator":
+            subprocess.run(["python3", "core/dorks_generator/dorks_generator.py"])
