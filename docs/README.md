@@ -99,7 +99,7 @@ The Dorks Generator creates Google dorks tailored for various needs, such as sea
 ### Issues and Suggestions
 
 <p align="center">
-    <img width=300px src="images/issue.gif">
+    <img src="images/issue.gif" width="600" height="200">
 </p>
 
 If you have encountered an issue with Near or would like to suggest an improvement, please report it in the [Issues section](https://github.com/rdWei/Near/issues).
