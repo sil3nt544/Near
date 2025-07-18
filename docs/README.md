@@ -75,12 +75,16 @@ The Scan Username tool performs a multi-threaded search to quickly check the exi
 #### Social Scraper
 The Social Scraper provides an interface to scrape basic information from various social media platforms.
 
-![images/screenshot3.png]
+<p align="center">
+    <img src="images/screenshot3.png">
+</p>
 
 #### Dorks Generator
 The Dorks Generator creates Google dorks tailored for various needs, such as searching for passwords, emails, phone numbers, and more
 
-![images/screenshot5.png]
+<p align="center">
+    <img src="images/screenshot5.png">
+</p>
 
 
 ### Todo
