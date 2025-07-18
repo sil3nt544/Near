@@ -7,6 +7,7 @@ import json
 import re
 import httpx
 from datetime import datetime
+import os
 
 with open("core/username_scan/data.json", "r", encoding="utf-8") as f:
     data = json.load(f)
@@ -80,7 +81,7 @@ class TableApp(App):
                 status = "UNKNOWN"
 
             if status == "FIND":
-                return ("[green]+[/]", f"[green]{site}[/]", url, now(), f"results/{username}/{username}.txt")
+                return ("[green]+[/]", f"[green]{site}[/]", url, now(), f"results/{username}.txt")
             elif status == "NOT FOUND":
                 return ("[red]-[/]", f"[red]{site}[/]", url, now(), "-")
             else:
@@ -92,11 +93,12 @@ class TableApp(App):
         self.table.clear()
         now = lambda: datetime.now().strftime("%H:%M:%S")
         rows = []
+        found_urls = []
 
         def insert_sorted(row):
-            # Verde in cima, tutto il resto in fondo
             if row[0] == "[green]+[/]":
                 rows.insert(0, row)
+                found_urls.append(row[2])
             else:
                 rows.append(row)
 
@@ -115,6 +117,20 @@ class TableApp(App):
             ]
 
             await asyncio.gather(*tasks)
+
+        # Salvataggio su file
+        if found_urls:
+            os.makedirs("results", exist_ok=True)
+            file_path = f"results/{username}.txt"
+            with open(file_path, "w", encoding="utf-8") as f:
+                for url in found_urls:
+                    f.write(url + "\n")
+            # Aggiorna colonna "Saved In"
+            for i, row in enumerate(rows):
+                if row[0] == "[green]+[/]":
+                    rows[i] = (*row[:-1], file_path)
+            self.table.clear()
+            self.table.add_rows(rows)
 
         self.set_focus(self.table)
 
