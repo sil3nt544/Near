@@ -48,18 +48,18 @@ Near was born from the need to consolidate multiple OSINT tools into a single to
 
 ### Installation
 
-#### Prerequisites
+### Prerequisites
 - Git  
 - Python 3 (version 3.6 or higher recommended)  
 - pip 
 
-#### Initial setup
+### Initial setup
 
 ```
 pip3 install -r requirements.txt  
 ```
 
-#### Running from source
+### Running from source
 
 ```
 python3 near.py
@@ -69,17 +69,17 @@ python3 near.py
 
 Once the program is launched, you will see an interface presenting a variety of tools. Let’s explore each of them in detail.
 
-#### Scan Username
+### Scan Username
 The Scan Username tool performs a multi-threaded search to quickly check the existence of a username across multiple social platforms. A demonstration of this feature is shown [at the beginning](#top) of this README file.
 
-#### Social Scraper
+### Social Scraper
 The Social Scraper provides an interface to scrape basic information from various social media platforms.
 
 <p align="center">
     <img src="images/screenshot3.png">
 </p>
 
-#### Dorks Generator
+### Dorks Generator
 The Dorks Generator creates Google dorks tailored for various needs, such as searching for passwords, emails, phone numbers, and more
 
 <p align="center">
