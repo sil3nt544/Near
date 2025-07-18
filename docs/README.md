@@ -95,3 +95,11 @@ The Dorks Generator creates Google dorks tailored for various needs, such as sea
 - [ ] Improve UI/UX
 - [ ] Add general utilities (e.g. Whois, reverse DNS, metadata parser)
 - [ ] Export results to JSON/CSV
+
+### Issues and Suggestions
+
+<p align="center">
+    <img src="images/issue.gif">
+</p>
+
+If you have encountered an issue with Near or would like to suggest an improvement, please report it in the [Issues section](https://github.com/rdWei/Near/issues).
