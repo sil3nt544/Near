@@ -92,3 +92,6 @@ The Dorks Generator creates Google dorks tailored for various needs, such as sea
 - [ ] Add Linkedin Scarping  
 - [ ] Add Reddit Scarping  
 - [ ] Add more general tool
+- [ ] Improve UI/UX
+- [ ] Add general utilities (e.g. Whois, reverse DNS, metadata parser)
+- [ ] Export results to JSON/CSV
