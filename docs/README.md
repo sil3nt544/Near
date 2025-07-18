@@ -46,9 +46,9 @@ Near is a comprehensive OSINT toolkit designed to consolidate essential open-sou
 
 ### Screenshots
 <p align="center">
-  <img src="images/screenshot1.png" width="30%" />
-  <img src="images/screenshot2.png" width="30%" />
-  <img src="images/screenshot3.png" width="30%" />
+  <img src="images/screenshot1.png" width="250" height="150" style="object-fit: cover; margin:4px; border:1px solid #ccc;" />
+  <img src="images/screenshot2.png" width="250" height="150" style="object-fit: cover; margin:4px; border:1px solid #ccc;" />
+  <img src="images/screenshot3.png" width="250" height="150" style="object-fit: cover; margin:4px; border:1px solid #ccc;" />
 </p>
 
 ## Todo
