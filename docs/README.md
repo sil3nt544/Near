@@ -28,8 +28,20 @@
 - [**Near**](#top)
     - What it does
         - See it in action
-## TODO
+    - Why?
+- Installation
+    - Prerequisites
+    - Initial setup
+    - Running from source
+- Usage
+    - Scan Username
+    - Social Scraper
+    - Phone Lookup
+    - Dorks Generator
+- Futre Projects
+    - Todo
 
+## Todo
 - [ ] Add Facebook Scarping 
 - [ ] Add Linkedin Scarping  
 - [ ] Add Reddit Scarping  
