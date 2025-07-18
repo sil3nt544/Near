@@ -38,6 +38,8 @@
     - [Dorks Generator](#dorks-generator)
 - [Todo](#todo) 
 
+---
+
 ### What it does
 Near is a comprehensive OSINT toolkit designed to consolidate essential open-source intelligence gathering capabilities into a single terminal user interface.
 
