@@ -45,11 +45,11 @@
 Near is a comprehensive OSINT toolkit designed to consolidate essential open-source intelligence gathering capabilities into a single terminal user interface.
 
 ### Screenshots
-<div style="display: flex; overflow-x: auto;">
-  <img src="images/screenshot1.png" style="min-width: 300px; margin-right: 10px;">
-  <img src="images/screenshot2.png" style="min-width: 300px; margin-right: 10px;">
-  <img src="images/screenshot3.png" style="min-width: 300px; margin-right: 10px;">
-</div>
+<p align="center">
+  <img src="screenshot1.png" width="30%" />
+  <img src="screenshot2.png" width="30%" />
+  <img src="screenshot3.png" width="30%" />
+</p>
 
 ## Todo
 - [ ] Add Facebook Scarping 
