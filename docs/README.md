@@ -34,9 +34,8 @@
     - [Running from source](#running-from-source)
 - [Usage](#usage)
     - [Scan Username](#scan-username)
-    - Social Scraper
-    - Phone Lookup
-    - Dorks Generator
+    - [Social Scraper](#social-scraper)
+    - [Dorks Generator](#dorks-generator)
 - [Todo](#todo) 
 
 ### What it does
