@@ -40,8 +40,11 @@
 - Future Projects
     - Todo
 
-## What it does
+### What it does
 Near is a comprehensive OSINT toolkit designed to consolidate essential open-source intelligence gathering capabilities into a single terminal user interface.
+
+### Why
+Near was born from the need to consolidate multiple OSINT tools into a single toolkit. It simplifies the workflow by removing the need to manage multiple tools, while also providing a personal space to experiment with and learn modern OSINT techniques.
 
 ## Todo
 - [ ] Add Facebook Scarping 
