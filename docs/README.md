@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <p align="center">
     <img src="images/logo.png">
 </p>
@@ -23,7 +25,7 @@
 > [!WARNING]
 > This tool is intended for ethical OSINT and educational use only. The author is not responsible for any misuse. Use at your own risk and comply with all applicable laws.
 
-- **Near**
+- [**Near**](#top)
     - What it does
         - See it in action
 ## TODO
