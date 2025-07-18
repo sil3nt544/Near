@@ -26,8 +26,8 @@
 > This tool is intended for ethical OSINT and educational use only. The author is not responsible for any misuse. Use at your own risk and comply with all applicable laws.
 
 - [**Near**](#top)
-    - What it does
-        - See it in action
+    - [What it does](#what-it-does)
+        - [See it in action](#see-it-in-action)
     - Why?
 - Installation
     - Prerequisites
@@ -38,8 +38,18 @@
     - Social Scraper
     - Phone Lookup
     - Dorks Generator
-- Futre Projects
+- Future Projects
     - Todo
+
+## What it does
+Near is a comprehensive OSINT toolkit designed to consolidate essential open-source intelligence gathering capabilities into a single terminal user interface.
+
+### Screenshots
+<div style="display: flex; overflow-x: auto;">
+  <img src="images/screenshot1.png" style="min-width: 300px; margin-right: 10px;">
+  <img src="images/screenshot2.png" style="min-width: 300px; margin-right: 10px;">
+  <img src="images/screenshot3.png" style="min-width: 300px; margin-right: 10px;">
+</div>
 
 ## Todo
 - [ ] Add Facebook Scarping 
