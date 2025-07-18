@@ -37,6 +37,7 @@
     - [Social Scraper](#social-scraper)
     - [Dorks Generator](#dorks-generator)
 - [Todo](#todo) 
+- [Issues and Suggestions](#issues-and-suggestions)
 
 ---
 
